@@ -2,7 +2,9 @@
 
 ---
 
-- [LeetCode](https://leetcode.com/u/_yadav_sk_/) → (main platform I use)    
+### 📊 LeetCode Progress  
+![LeetCode Stats](https://leetcard.jacoblin.cool/_yadav_sk_?theme=dark&font=Nunito&ext=contest)  
+🔗 [View my LeetCode Profile](https://leetcode.com/u/_yadav_sk_/)  
 - [CodeStudio (Coding Ninjas)](https://www.naukri.com/code360/profile/cb1ea61a-987e-47ef-886e-bf52a2a637a1) → secondary problem solving platform 
 - [Codolio](https://codolio.com/profile/Shiwans_1771) → all my coding profiles in one place 
 
